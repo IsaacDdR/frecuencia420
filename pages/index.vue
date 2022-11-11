@@ -1,16 +1,16 @@
 <!-- Please remove this file from your project -->
 <template>
-  <div class="h-screen" id="vanta-selector">
+  <div class="h-screen flex w-sreen" id="vanta-selector">
     <div class="flex w-screen">
-      <div class="mx-auto py-32">
-        <nuxt-img class="mx-auto w-50 px-12" src="/assets/logo.webp" />
+      <div class="mx-auto">
+        <nuxt-img class="mx-auto w-50 px-12 py-12" src="/assets/logo.webp" />
         <h4
           class="md:mx-54 my-12 font-extrabold text-transparent text-3xl bg-clip-text bg-gradient-to-r from-green-500 to-yellow-500 text-center"
         >
           Somos un proyecto colectivo que pretende cambiar el estigma social
           relacionado con el cannabis.
         </h4>
-        <div class="flex">
+        <div class="flex mb-10">
           <div
             class="inline-grid grid-cols-3 gap-6 w-full justify-content items-center"
           >

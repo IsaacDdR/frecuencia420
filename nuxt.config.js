@@ -14,14 +14,10 @@ export default {
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     script: [
       {
-        src: "/frecuencia420/three.min.js",
+        src: "/three.min.js",
       },
-      { src: "/frecuencia420/vanta.cells.min.js" },
+      { src: "/vanta.cells.min.js" },
     ],
-  },
-
-  router: {
-    base: "/frecuencia420/",
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
