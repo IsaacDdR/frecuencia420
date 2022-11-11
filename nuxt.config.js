@@ -20,6 +20,10 @@ export default {
     ],
   },
 
+  router: {
+    base: "/frecuencia420/",
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 
