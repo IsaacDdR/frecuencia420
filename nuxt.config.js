@@ -14,9 +14,9 @@ export default {
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     script: [
       {
-        src: "frecuencia420/static/three.min.js",
+        src: "/three.min.js",
       },
-      { src: "frecuencia420/static/vanta.cells.min.js" },
+      { src: "/vanta.cells.min.js" },
     ],
   },
 
