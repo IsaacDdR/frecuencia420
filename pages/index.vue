@@ -13,6 +13,7 @@ export default {
       mouseControls: true,
       touchControls: true,
       gyroControls: false,
+      minHeight: 800,
       scale: 1.0,
     });
   },
