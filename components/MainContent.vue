@@ -7,7 +7,7 @@
           class="bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-50 bg-black mx-8 rounded-lg drop-shadow-md"
         >
           <h4
-            class="py-4 md:mx-54 mb-8 font-extrabold text-transparent text-3xl bg-clip-text bg-gradient-to-r from-red-500 to-yellow-600 text-center drop-shadow-md"
+            class="py-4 md:mx-54 mb-8 mx-2 font-extrabold text-transparent text-3xl bg-clip-text bg-gradient-to-r from-red-200 to-yellow-600 text-center drop-shadow-md"
           >
             Somos un proyecto colectivo que pretende cambiar el estigma social
             relacionado con el cannabis.
