@@ -34,7 +34,7 @@
             </span>
 
             <span class="w-12 mx-auto">
-              <a href="https://www.facebook.com/Frecuencia-420-107148185351025">
+              <a href="https://www.tiktok.com/@frecuencia420">
                 <nuxt-img src="/assets/tiktok.svg" />
               </a>
             </span>
